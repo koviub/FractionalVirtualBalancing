@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="test/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/test/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=VirtualStick-desktop/src=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.stickbal.game.desktop{DesktopLauncher.java[DesktopLauncher" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=VirtualStick-desktop/src=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/"/>
+        <javaElement handleIdentifier="=VirtualStick-desktop/assets=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/"/>
+        <javaElement handleIdentifier="=VirtualStick-core"/>
+        <folder path="/VirtualStick-desktop/bin"/>
+    </selectedElements>
+</jardesc>
